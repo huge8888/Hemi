@@ -15,6 +15,7 @@ Automate the setup process for the Hemi Network node on an Ubuntu system.
 1. Clone this repository:
     ```bash
     sudo apt install curl -y
+    sudo apt install git -y
     git clone https://github.com/huge8888/Hemi.git
     cd Hemi
     ```
